@@ -1,0 +1,7 @@
+<?xml version="1.0"?><DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="PIONE0\palani" GeneratedFromPackageName="FILES-AZURE-STORAGE-SYNC" 
+								  GeneratedFromPackageID="{3E403CC0-04CD-408E-AC63-CD65BF3A56B8}" GeneratedDate="2/17/2022 11:47:54 AM"/>
+	</DTSConfigurationHeading><Configuration ConfiguredType="Property" Path="\Package.Connections[SourceDB QDC].Properties[ConnectionString]" 
+ValueType="String"><ConfiguredValue>Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=QDC;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration></DTSConfiguration>
